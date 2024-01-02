@@ -1,1 +1,1 @@
-console.log("dog");
+console.log("dog"),console.log("foo"),console.log("bar");
